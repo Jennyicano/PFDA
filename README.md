@@ -3,7 +3,7 @@ Module PROGRAMMING FOR DATA ANALYTICS
 
 ![PFDA](https://media.licdn.com/dms/image/v2/D4D12AQGwFNybXCYmHg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1695624928405?e=2147483647&v=beta&t=x2x1eyoGUlnsVGms4ejUyjUIYqDSdJtVy46fDfiOVF0)
 
-*** by Jennifer Ibanez Cano. Student of Higher Diploma in Science in Computing in Data Analytics at the [ATU Galway](https://www.atu.ie), 2024.***
+by Jennifer Ibanez Cano. Student of Higher Diploma in Science in Computing in Data Analytics at the [ATU Galway](https://www.atu.ie), 2024.
 
 **About this repository**
 
