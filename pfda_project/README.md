@@ -13,7 +13,7 @@ All the data analysis can be found in my [Jupyter Notebook](https://github.com/J
 - age 
 - body temperature
 - blood pressure
-
+- Heart Rate
 
 
 And how these variables can be the result in low, mid and high risk. 
