@@ -12,6 +12,8 @@ In this directory I performed data analysis on a dataset. For this project I use
 All the data analysis can be found in my [Jupyter Notebook](https://github.com/Jennyicano/PFDA/blob/main/pfda_project/big_project.ipynb). Here I looked into the different variables that can be affecting the maternal health risk in women like:
 - age 
 - body temperature
+- blood pressure
+
 
 
 And how these variables can be the result in low, mid and high risk. 
