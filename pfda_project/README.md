@@ -1,6 +1,8 @@
 # PFDA
 Module PROGRAMMING FOR DATA ANALYTICS
 
+![pandas](https://purevoltage.com/blog/wp-content/uploads/2023/11/python-pandas.webp)
+
 by Jennifer Ibanez Cano. Student of Higher Diploma in Science in Computing in Data Analytics at the [ATU Galway](https://www.atu.ie), 2024.
 
 **About this directory**
@@ -14,7 +16,7 @@ All the data analysis can be found in my [Jupyter Notebook](https://github.com/J
 - body temperature
 - blood pressure
 - Heart Rate
-
+- Blood Sugar
 
 And how these variables can be the result in low, mid and high risk. 
 
